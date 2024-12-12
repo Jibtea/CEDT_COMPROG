@@ -1,2 +1,2 @@
 # CEDT_COMPROG
-sum computer programming problem set.
+sum computer programming problem set with my solution.
